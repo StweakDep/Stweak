@@ -1,12 +1,1 @@
-{
-  "rewrites": [
-    {
-      "source": "/store",
-      "destination": "https://vercel.app"
-    },
-    {
-      "source": "/store/:path*",
-      "destination": "https://vercel.app/:path*"
-    }
-  ]
-}
+{}
